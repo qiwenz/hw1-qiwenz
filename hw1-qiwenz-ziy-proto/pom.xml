@@ -96,7 +96,7 @@
     </dependency>
   </dependencies>
   <scm>
-  	<developerConnection>git@github.com:qiwenz/hw1-qiwenz.git</developerConnection>
-  	<connection>git@github.com:qiwenz/hw1-qiwenz.git</connection>
+  	<developerConnection>scm:git:git://github.com/qiwenz/hw1-qiwenz.git</developerConnection>
+  	<connection>scm:git:git://github.com/qiwenz/hw1-qiwenz.git</connection>
   </scm>
 </project>
