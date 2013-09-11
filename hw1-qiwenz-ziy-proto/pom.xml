@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>edu.cmu.lti.11791.f13.hw1</groupId>
   <artifactId>hw1-qiwenz</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.2-SNAPSHOT</version>
   <repositories>
     <repository>
       <id>oaqa</id>
@@ -96,7 +96,7 @@
     </dependency>
   </dependencies>
   <scm>
-  	<developerConnection>scm:git:git://github.com/qiwenz/hw1-qiwenz.git</developerConnection>
-  	<connection>scm:git:git://github.com/qiwenz/hw1-qiwenz.git</connection>
+  	<developerConnection>scm:git:git@github.com:qiwenz/hw1-qiwenz.git</developerConnection>
+  	<connection>scm:git:git@github.com:qiwenz/hw1-qiwenz.git</connection>
   </scm>
 </project>
